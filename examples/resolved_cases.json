@@ -1,0 +1,10 @@
+[
+  {
+    "id": "demo-previous-issue-7",
+    "resolved": true,
+    "title": "Penny mismatch after a promotion",
+    "summary": "The previous incident was localized to currency handling in the billing module. Treat this only as a navigation hint and inspect current source.",
+    "files": ["billing.py", "test_billing.py"],
+    "source": "synthetic-example"
+  }
+]
